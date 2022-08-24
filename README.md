@@ -29,3 +29,5 @@ but https://www.pcastuces.com/pratique/astuces/4818.htm
 
 https://www.dolby.com/fr/musique/
 whta is dolby atmos
+
+https://www.maplatine.com/fr/content/322-comment-brancher-et-utiliser-son-dac-usb
