@@ -18,3 +18,6 @@ MP3 quality
 - https://www.audiomountain.com/tech/audio-file-size.html
 
 Screenshot phone
+
+
+also vlc 32 bit in upnp + local?
