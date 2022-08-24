@@ -33,3 +33,13 @@ whta is dolby atmos
 https://www.maplatine.com/fr/content/322-comment-brancher-et-utiliser-son-dac-usb
 ame exclusive mode in Amazon music
 Do not select 32 bits: Unrecoverable playback error: Endpoint creation failed
+
+Actually quobuz is https://www.qobuz.com/fr-fr/album/if-you-wait-london-grammar/5060281616258 
+ 24-Bit 44.1 kHz - Stereo 
+ 
+ Some are in 48khz https://www.qobuz.com/fr-fr/album/aventine-agnes-obel/5414939568176
+ and 96
+ and 176https://www.qobuz.com/fr-fr/album/redcar-les-adorables-etoiles-prologue-christine-and-the-queens/bmli1c01hksgb
+ (swee filter)
+ 
+ pay a 88 to try 
