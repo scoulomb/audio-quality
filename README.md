@@ -21,3 +21,11 @@ Screenshot phone
 
 
 also vlc 32 bit in upnp + local?
+
+power dvd -> dolby digital 
+Use VLC as powerdvd hue issue due to protection 
+but https://www.pcastuces.com/pratique/astuces/4818.htm
+    and select good track in vlc
+
+https://www.dolby.com/fr/musique/
+whta is dolby atmos
