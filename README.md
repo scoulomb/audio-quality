@@ -59,3 +59,4 @@ mediatheque @@55
 nas sync new zik
 
 http://www.traitement-signal.com/theoreme_d_echantillonnage_de_nyquist-shannon.php
+https://www.headphonesty.com/2019/07/sample-rate-bit-depth-bit-rate/
