@@ -42,4 +42,9 @@ Actually quobuz is https://www.qobuz.com/fr-fr/album/if-you-wait-london-grammar/
  and 176https://www.qobuz.com/fr-fr/album/redcar-les-adorables-etoiles-prologue-christine-and-the-queens/bmli1c01hksgb
  (swee filter)
  
- pay a 88 to try 
+ pay a 88 to try , compare mp3
+ resync nas
+ 
+ can see https://192.168.1.44:10443/general/general.html#
+ 
+ 
