@@ -46,5 +46,8 @@ Actually quobuz is https://www.qobuz.com/fr-fr/album/if-you-wait-london-grammar/
  resync nas
  
  can see https://192.168.1.44:10443/general/general.html#
+ if exclusive mode sampling rate == quality of sounf
+ 
+ otherwise 88.z as configure wondows in windows property
  
  
