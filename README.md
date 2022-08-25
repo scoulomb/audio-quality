@@ -34,6 +34,8 @@ https://www.maplatine.com/fr/content/322-comment-brancher-et-utiliser-son-dac-us
 ame exclusive mode in Amazon music
 Do not select 32 bits: Unrecoverable playback error: Endpoint creation failed
 
+IN COURSE + JM video in whatsapp
+
 Actually quobuz is https://www.qobuz.com/fr-fr/album/if-you-wait-london-grammar/5060281616258 
  24-Bit 44.1 kHz - Stereo 
  
