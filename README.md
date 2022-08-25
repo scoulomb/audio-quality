@@ -51,3 +51,4 @@ Actually quobuz is https://www.qobuz.com/fr-fr/album/if-you-wait-london-grammar/
  otherwise 88.z as configure wondows in windows property
  
  
+and heos has samplerate 0f 96khz!!!
