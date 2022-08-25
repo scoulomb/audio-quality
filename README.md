@@ -55,3 +55,5 @@ and heos has samplerate 0f 96khz!!!
 mediatheque @@55
 
 nas sync new zik
+
+http://www.traitement-signal.com/theoreme_d_echantillonnage_de_nyquist-shannon.php
