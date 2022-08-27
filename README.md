@@ -127,3 +127,6 @@ and aproz size example of tack 1 which 4'04
 4608*264*0.125 = 152064
 
 and actaull size 144 MB (151,865,388 bytes)
+***
+
+atmos via lexa
