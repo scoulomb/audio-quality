@@ -63,31 +63,57 @@ https://www.headphonesty.com/2019/07/sample-rate-bit-depth-bit-rate/
 
 https://sourdoreille.net/test-decoute-faites-vous-la-difference-entre-plusieurs-formats-audio/
 
-AmAZON MUSIC 
+
+****************
+Amaazon MUSIC Unlimited 
 > settings > Audio qulaity hd/uhd
-example petite arie ou qulaite 96khz/24 bits
-si dans windows device quality is 88,2 il sortira le morcecau en 48khz/24 bits
+example Petite Marie wich is avaialble in UHD 96khz/24 bits
+si dans windows device quality is 88.2 il sortira le morcecau en 48khz/24 bits
 See amazon-music-uhd-device-88.2
 
 Denon UI will show
-Audio
+
+````
 Sound Mode	Matrix
 Input Signal	PCM
 Sample Rate	88.2 kHz
 Format	2/0/.0
+````
 
-il faut donc change en 96khz les audi settnifgs dans windows
+
+il faut donc change en 96khz les audio settnifgs dans windows
 amazon-music-uhd-device-96
 
-we are laying at good qulaity
+we are playing at besy possible quality
 
 
 Denon UI will show
 
+````
 Sound Mode	Matrix
 Input Signal	PCM
 Sample Rate	96 kHz
 Format	2/0/.0
+````
 
-addtional test with exclusive mode
+Addtional test with exclusive mode
 Sadly exclusive mode keep windows preference of sahred mode for audio quality
+
+Also if we select 176400 in windwos and try to play a song in 96 (here) in will not  work 
+(tested same beahvir in exclusive mode or not)
+
+select 192  works (exlcusive or not)
+
+Denon UI will show (exclusive or not)
+
+````
+Sound Mode	Matrix
+Input Signal	PCM
+Sample Rate	192 kHz
+Format	2/0/.0
+````
+
+This behavior is different from foobar which plays at optimal quality and ignore shaed mode preference
+
+
+****************
