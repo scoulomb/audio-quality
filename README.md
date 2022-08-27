@@ -62,3 +62,32 @@ http://www.traitement-signal.com/theoreme_d_echantillonnage_de_nyquist-shannon.p
 https://www.headphonesty.com/2019/07/sample-rate-bit-depth-bit-rate/
 
 https://sourdoreille.net/test-decoute-faites-vous-la-difference-entre-plusieurs-formats-audio/
+
+AmAZON MUSIC 
+> settings > Audio qulaity hd/uhd
+example petite arie ou qulaite 96khz/24 bits
+si dans windows device quality is 88,2 il sortira le morcecau en 48khz/24 bits
+See amazon-music-uhd-device-88.2
+
+Denon UI will show
+Audio
+Sound Mode	Matrix
+Input Signal	PCM
+Sample Rate	88.2 kHz
+Format	2/0/.0
+
+il faut donc change en 96khz les audi settnifgs dans windows
+amazon-music-uhd-device-96
+
+we are laying at good qulaity
+
+
+Denon UI will show
+
+Sound Mode	Matrix
+Input Signal	PCM
+Sample Rate	96 kHz
+Format	2/0/.0
+
+addtional test with exclusive mode
+Sadly exclusive mode keep windows preference of sahred mode for audio quality
