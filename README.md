@@ -117,3 +117,13 @@ This behavior is different from foobar which plays at optimal quality and ignore
 
 
 ****************
+
+
+quobuz wav file 
+24*96000*2* => 4608 kbps seconds 
+can find same rate asin foobar
+and aproz size example of tack 1 which 4'04
+4608*263*0.125 = 151488
+4608*264*0.125 = 152064
+
+and actaull size 144 MB (151,865,388 bytes)
